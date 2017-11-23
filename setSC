@@ -1,0 +1,9 @@
+
+export CXX=g++
+export CC=gcc
+
+
+export SYSTEMC_PATH=/opt/systemc
+export SYSTEMC_AMS_PATH=/opt/systemc-ams
+
+export LD_LIBRARY_PATH=/opt/systemc-ams/lib-linux64:/opt/systemc/lib-linux64:
